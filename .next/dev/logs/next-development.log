@@ -1,149 +1,17 @@
-[00:00:01.133] Server  LOG      ✓ Ready in 822ms
-[00:00:04.236] Server  LOG      ○ Compiling / ...
-[00:00:06.214] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:22.319] Browser WARN    Dialog is changing from uncontrolled to controlled. Components should not switch from controlled to uncontrolled (or vice versa). Decide between using a controlled or uncontrolled value for the lifetime of the component.
-[00:02:57.138] Browser LOG     PizzaBox fields structure: {
-  "id": {
-    "id": "0xc2f684570abb91e14c0beb66f1a4b1a74f6503de777cd555181917641c0c99fb"
-  },
-  "pizza": {
-    "type": "0x07f7d000c0edd43232395a19b38425d7ec1bcc9b929b3b7ad6ad0d694b441116::pizza::Pizza",
-    "fields": {
-      "cheese": 180,
-      "flour": 98,
-      "olive_oils": 10,
-      "pineapple": 0,
-      "salt": 18,
-      "tomato_sauce": 200,
-      "water": 114,
-      "yeast": 3
-    }
-  }
-}
-[00:02:57.138] Browser LOG     PizzaBox fields structure: {
-  "id": {
-    "id": "0xc2f684570abb91e14c0beb66f1a4b1a74f6503de777cd555181917641c0c99fb"
-  },
-  "pizza": {
-    "type": "0x07f7d000c0edd43232395a19b38425d7ec1bcc9b929b3b7ad6ad0d694b441116::pizza::Pizza",
-    "fields": {
-      "cheese": 180,
-      "flour": 98,
-      "olive_oils": 10,
-      "pineapple": 0,
-      "salt": 18,
-      "tomato_sauce": 200,
-      "water": 114,
-      "yeast": 3
-    }
-  }
-}
-[00:02:57.798] Browser LOG     PizzaBox fields structure: {
-  "id": {
-    "id": "0xc2f684570abb91e14c0beb66f1a4b1a74f6503de777cd555181917641c0c99fb"
-  },
-  "pizza": {
-    "type": "0x07f7d000c0edd43232395a19b38425d7ec1bcc9b929b3b7ad6ad0d694b441116::pizza::Pizza",
-    "fields": {
-      "cheese": 180,
-      "flour": 98,
-      "olive_oils": 10,
-      "pineapple": 0,
-      "salt": 18,
-      "tomato_sauce": 200,
-      "water": 114,
-      "yeast": 3
-    }
-  }
-}
-[00:02:57.798] Browser LOG     PizzaBox fields structure: {
-  "id": {
-    "id": "0xc2f684570abb91e14c0beb66f1a4b1a74f6503de777cd555181917641c0c99fb"
-  },
-  "pizza": {
-    "type": "0x07f7d000c0edd43232395a19b38425d7ec1bcc9b929b3b7ad6ad0d694b441116::pizza::Pizza",
-    "fields": {
-      "cheese": 180,
-      "flour": 98,
-      "olive_oils": 10,
-      "pineapple": 0,
-      "salt": 18,
-      "tomato_sauce": 200,
-      "water": 114,
-      "yeast": 3
-    }
-  }
-}
-[00:03:48.265] Browser LOG     PizzaBox fields structure: {
-  "id": {
-    "id": "0xc2f684570abb91e14c0beb66f1a4b1a74f6503de777cd555181917641c0c99fb"
-  },
-  "pizza": {
-    "type": "0x07f7d000c0edd43232395a19b38425d7ec1bcc9b929b3b7ad6ad0d694b441116::pizza::Pizza",
-    "fields": {
-      "cheese": 180,
-      "flour": 98,
-      "olive_oils": 10,
-      "pineapple": 0,
-      "salt": 18,
-      "tomato_sauce": 200,
-      "water": 114,
-      "yeast": 3
-    }
-  }
-}
-[00:03:48.266] Browser LOG     PizzaBox fields structure: {
-  "id": {
-    "id": "0xc2f684570abb91e14c0beb66f1a4b1a74f6503de777cd555181917641c0c99fb"
-  },
-  "pizza": {
-    "type": "0x07f7d000c0edd43232395a19b38425d7ec1bcc9b929b3b7ad6ad0d694b441116::pizza::Pizza",
-    "fields": {
-      "cheese": 180,
-      "flour": 98,
-      "olive_oils": 10,
-      "pineapple": 0,
-      "salt": 18,
-      "tomato_sauce": 200,
-      "water": 114,
-      "yeast": 3
-    }
-  }
-}
-[00:04:14.959] Browser ERROR   Error: {}
-[00:04:14.959] Browser LOG     PizzaBox fields structure: {
-  "id": {
-    "id": "0xc2f684570abb91e14c0beb66f1a4b1a74f6503de777cd555181917641c0c99fb"
-  },
-  "pizza": {
-    "type": "0x07f7d000c0edd43232395a19b38425d7ec1bcc9b929b3b7ad6ad0d694b441116::pizza::Pizza",
-    "fields": {
-      "cheese": 180,
-      "flour": 98,
-      "olive_oils": 10,
-      "pineapple": 0,
-      "salt": 18,
-      "tomato_sauce": 200,
-      "water": 114,
-      "yeast": 3
-    }
-  }
-}
-[00:04:14.959] Browser LOG     PizzaBox fields structure: {
-  "id": {
-    "id": "0xc2f684570abb91e14c0beb66f1a4b1a74f6503de777cd555181917641c0c99fb"
-  },
-  "pizza": {
-    "type": "0x07f7d000c0edd43232395a19b38425d7ec1bcc9b929b3b7ad6ad0d694b441116::pizza::Pizza",
-    "fields": {
-      "cheese": 180,
-      "flour": 98,
-      "olive_oils": 10,
-      "pineapple": 0,
-      "salt": 18,
-      "tomato_sauce": 200,
-      "water": 114,
-      "yeast": 3
-    }
-  }
-}
+[00:00:01.829] Server  LOG      ✓ Ready in 1370ms
+[00:00:04.964] Server  LOG      ○ Compiling / ...
+[00:00:07.615] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:08.088] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:08.150] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:08.166] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:08.252] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:25.267] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:34.824] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:47.004] Browser WARN    Dialog is changing from uncontrolled to controlled. Components should not switch from controlled to uncontrolled (or vice versa). Decide between using a controlled or uncontrolled value for the lifetime of the component.
+[00:01:49.740] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:52.342] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:57.724] Browser WARN    Dialog is changing from uncontrolled to controlled. Components should not switch from controlled to uncontrolled (or vice versa). Decide between using a controlled or uncontrolled value for the lifetime of the component.
+[00:12:49.902] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:54.307] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:03.820] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:14.671] Browser WARN    Dialog is changing from uncontrolled to controlled. Components should not switch from controlled to uncontrolled (or vice versa). Decide between using a controlled or uncontrolled value for the lifetime of the component.

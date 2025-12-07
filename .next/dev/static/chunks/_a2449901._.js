@@ -291,7 +291,7 @@ const useContract = ()=>{
         isFetching
     };
 };
-_s(useContract, "HQQKFgypEPkY135/b+GLqA+Nxhs=", false, function() {
+_s(useContract, "xQmGIDqvngJsunlewdoqjbAzERs=", false, function() {
     return [
         __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$iota$2f$dapp$2d$kit$2f$dist$2f$esm$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useCurrentAccount"],
         __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$config$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useNetworkVariable"],
@@ -1056,7 +1056,7 @@ const SampleIntegration = ()=>{
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };
-_s(SampleIntegration, "MfgCDVfWwlKgcQOwwoi3aFqdI4Y=", false, function() {
+_s(SampleIntegration, "QU2OuNBRNVqduldx0e6bV8iQ25w=", false, function() {
     return [
         __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$iota$2f$dapp$2d$kit$2f$dist$2f$esm$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useCurrentAccount"],
         __TURBOPACK__imported__module__$5b$project$5d2f$hooks$2f$useContract$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useContract"]
